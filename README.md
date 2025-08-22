@@ -14,7 +14,8 @@ You can find the hands-on notebooks in the [`notebooks/`](notebooks/) folder:
 
 - [01_intro.ipynb](notebooks/01_intro.ipynb)
 - [02_piv_analysis.ipynb](notebooks/02_piv_analysis.ipynb)
-- [03_advanced_topics.ipynb](notebooks/03_advanced_topics.ipynb)
+- [03_step_by_step_example.ipynb](notebooks/03_step_by_step_example.ipynb)
+- [04_piv_basics.ipynb](notebooks/04_piv_basics.ipynb)
 
 Open them in your preferred Jupyter environment or on [Google Colab](https://colab.research.google.com/) by uploading the files.
 
